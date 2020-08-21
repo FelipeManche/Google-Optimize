@@ -1,0 +1,89 @@
+
+@media (min-width: 100px) and (max-width: 767.98px) { 
+.container-right-home {
+border: red solid 1px;
+}
+
+img.img-fluid {
+max-width : 100%;
+}
+
+.subtitle-mobile {
+color: rgb(77, 77, 77)!important;
+font-weight: 100!important;
+font-size: 17px!important;
+text-align: center;
+
+}
+
+.d-flex{
+display: flex;
+}
+
+.service{
+font-size: 12px;
+display: flex;
+color: #48535b;
+padding: 18px 0;
+display: flex;
+align-items: center;
+}
+
+.go-primary {
+color: rgb(8, 168, 141);
+}
+.input-option {
+border-bottom: 2px solid rgb(8, 168, 141) !important;
+}
+
+.input-number {
+border-bottom: 2px solid rgb(8, 168, 141) !important;
+}
+
+.general-button {
+border-radius: 50px;
+box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+border: 2px rgb(174, 207, 54) solid; 
+font-size: 19px!important;
+padding-bottom: 18px;
+transition: all 0.3s ease 0s;
+width: 75%;
+}
+
+.general-button:hover {
+color: rgb(255, 255, 255)!important;
+}
+
+.bg-red {
+background-color: red!important;
+}
+
+.input-button-active {
+background-color: rgb(255, 255, 255)!important;
+color: rgb(8, 168, 141)!important;
+text-align: center;
+margin-bottom: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.icon-footer {
+   display: flex;
+    justify-content: center !important;
+}
+.column {
+    display: flex;
+    flex-direction: column !important;
+}
+
+.text-btn-footer {
+    color: #808080;
+    text-align: center;
+}
+
+.d-block {
+    display: block!important;
+}
+
+}
